@@ -19,6 +19,8 @@ public class BonjourNom {
         Person John = new Person(args[0],args[1], 35);
 
         System.out.println("Bonjour"+ John.getFirstName() + " " + John.getLastName());
+        System.out.println("Bonjour"+ John.getFirstName() + " " + John.getLastName());
+             
         
     }
     
